@@ -1,2 +1,2 @@
 # atv_pw3
-Repositório destinado à tarefa de Programça
+Repositório destinado à tarefa de Programção Web
