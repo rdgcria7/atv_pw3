@@ -1,13 +1,13 @@
 <?php
 // Obter dados do formulário
-$usuario = $_POST['usuario'];
-$senha = $_POST['senha'];
+$username = $_POST['username'];
+$password = $_POST['password'];
 
 // Criar objeto XML
 $xmlContent = "<?xml version='1.0' encoding='UTF-8'?>
 <user>
-    <usuario>$usuario</usuario>
-    <senha>$senha</senha>
+    <username>$username</username>
+    <password>$password</password>
 </user>";
 
 // Definir o cabeçalho para indicar que a resposta é XML
